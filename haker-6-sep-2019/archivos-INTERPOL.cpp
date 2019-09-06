@@ -2,7 +2,8 @@
 
 int main(void)
 {
-  std::count <<"ingresando a archivos secretos :"<< end;
+  
+  std::cout << "Ingresando a archivos secretos..." << std::endl;
   return 0;
 
 }
