@@ -1,0 +1,13 @@
+#include <iostream>
+
+void helloworld(void)
+{
+  std::cout<< "hello world from a function \n";
+}
+
+
+int main(void)
+{
+  helloworld();
+  return 0;
+}

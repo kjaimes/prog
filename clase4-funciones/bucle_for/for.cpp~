@@ -1,0 +1,20 @@
+#include <iostream>
+
+int main(void)
+{
+  int n=0;
+  
+  std::cout<< "ingrese el codigo para hakear la cia: ";std::cin>> cod "\n";
+  std::cout << "Hakeando la cia, por favor espere ... \n";
+  
+  
+  for(n=0;n>0;n++)
+      if (n<=100){
+        std::cout << n "% \n";
+      }
+      else{
+	std::cout <<" La cia ha sido hakeada \n";
+      }
+
+  return 0;
+}
